@@ -1,0 +1,30 @@
+{
+  "name": "do-nothing",
+  "version": "1.0.0",
+  "description": "a sample npm package",
+  "keywords": [
+    "example",
+    "package",
+    "tutorial"
+  ],
+  "homepage": "https://github.com/UserName/package-name",
+  "bugs": {
+    "url": "https://github.com/UserName/package-name/issues",
+    "email": "your-public-email@example.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UserName/package-name.git"
+  },
+  "author": "Joe Bloggs <your-public-email@example.com> (your-website.com)",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "engineStrict": true
+}
