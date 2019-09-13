@@ -1,4 +1,5 @@
-https://img.shields.io/badge/DO%20DO%20DOO-1-blue
+[![DO NOTHING](https://img.shields.io/badge/Package-DO--NOTHING-green?style=for-the-badge&logo=appveyor)](https://github.com/Usama-Tahir/do-nothing)
+
 # DO-NOTHING
 
 DO DO DOO DOO
