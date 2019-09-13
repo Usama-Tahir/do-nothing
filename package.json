@@ -1,6 +1,6 @@
 {
-  "name": "do-nothing",
-  "version": "1.0.0",
+  "name": "@lazy-freak/do-nothing",
+  "version": "1.0.2",
   "description": "a sample npm package",
   "keywords": [
     "example",
